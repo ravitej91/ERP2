@@ -1,0 +1,13 @@
+.header {
+	width : 100%;
+	font-family: 'Arial Black', Gadget, sans-serif;
+	background-color: #FFFFDB;
+	border-bottom-width: thin;
+	border-bottom-style: double;
+	text-align: center;
+	font-size: small;
+}
+.table{border-collapse:collapse;}table, td, th{border:1px solid black;}th{background-color:green;color:white;}
+.row{
+	text-align: right;
+}
